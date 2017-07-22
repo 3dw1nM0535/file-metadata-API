@@ -1,0 +1,13 @@
+body {
+  margin: 0 ! important;
+  padding: 0 !important;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  font-size: 5rem ! important;
+}
+.cover {
+  background-color: steelblue ! important;
+  color: #fff ! important;
+}
