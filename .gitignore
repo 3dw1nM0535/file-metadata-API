@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+/.vscode
+/build
+/node_modules
+=======
+/node_modules
+/build
+/.vscode
+>>>>>>> 6e2b85780827a479a5d78e6bbd7f6609ca27e315
+package.json*
